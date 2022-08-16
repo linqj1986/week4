@@ -1,0 +1,2 @@
+run = 'npm --prefix ./week4 run dev'
+entrypoint = './week4/pages/index.jsx'
